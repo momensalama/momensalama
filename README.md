@@ -11,9 +11,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front%20End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Front End Developer with a less than 1 year
+- 🏢 I'm a junior Front End Developer with one year of experience
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with only JavaScript(currently), or anything related to web development.
+- 💬 Ask me about my experience with react.js, or anything related to web development.
 - ⚡ Fun Fact: I don't like coffee, I know, strangely, a programmer doesn't like coffee, but I like tea instead.
 <!-- - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
